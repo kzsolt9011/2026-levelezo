@@ -22,3 +22,5 @@ print(str(felhasznalo_kora).center(50, '.'))
 
 
 
+
+
